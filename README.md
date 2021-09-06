@@ -22,27 +22,27 @@ September 2021 <br>
 
 ## Requires the following libraries:
 - <code>lme4</code>
-- Hmisc
-- ggplot2
-- plotly
-- nlme
-- car
-- dismo
-- gbm
-- rgeos
-- rworldmap
-- rworldxtra
-- rcompanion
-- SpatialEpi
-- ggridges
-- dplyr
-- ggpubr
-- plyr
-- fields
-- ncf
-- AICcmodavg
-- modEvA
+- <code>Hmisc</code>
+- <code>ggplot2</code>
+- <code>plotly</code>
+- <code>nlme</code>
+- <code>car</code>
+- <code>dismo</code>
+- <code>gbm</code>
+- <code>rgeos</code>
+- <code>rworldmap</code>
+- <code>rworldxtra</code>
+- <code>rcompanion</code>
+- <code>SpatialEpi</code>
+- <code>ggridges</code>
+- <code>dplyr</code>
+- <code>ggpubr</code>
+- <code>plyr</code>
+- <code>fields</code>
+- <code>ncf</code>
+- <code>AICcmodavg</code>
+- <code>modEvA</code>
 
 ## and following source-code files:
-- new_lmer_AIC_tables3.R
-- r.squared.R
+- <code>new_lmer_AIC_tables3.R</code>
+- <code>r.squared.R</code>
