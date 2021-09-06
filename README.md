@@ -21,7 +21,7 @@ September 2021 <br>
 - continent.country2.csv = <em>naming file necessary for data merging</em>
 
 ## Requires the following libraries:
-- lme4
+- <code>lme4</code>
 - Hmisc
 - ggplot2
 - plotly
