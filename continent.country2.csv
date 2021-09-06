@@ -1,0 +1,229 @@
+country,cntry.code,cont,region
+Afghanistan,AFG,ASIA,SASIA
+Albania,ALB,EUR,NEU
+Algeria,DZA,AFR,NAFR
+Andorra,AND,EUR,NEU
+Angola,AGO,AFR,MAFR
+Anguilla,AIA,CAR,CAR
+Antigua and Barbuda,ATG,CAR,CAR
+Argentina,ARG,SA,SA
+Armenia,ARM,ASIA,CASIA
+Aruba,ABW,CAR,CAR
+Australia,AUS,OC,AUS
+Austria,AUT,EUR,EU
+Azerbaijan,AZE,ASIA,CASIA
+Bahamas,BHS,CAR,CAR
+Bahrain,BHR,ME,ME
+Bangladesh,BGD,ASIA,SASIA
+Barbados,BRB,CAR,CAR
+Belarus,BLR,EUR,NEU
+Belgium,BEL,EUR,EU
+Belize,BLZ,NAM,CAM
+Benin,BEN,AFR,WAFR
+Bermuda,BMU,CAR,CAR
+Bhutan,BTN,ASIA,SASIA
+Bolivia,BOL,SA,SA
+Bonaire,BON,CAR,CAR
+Bosnia Herzegovina,BIH,EUR,NEU
+Botswana,BWA,AFR,SAFR
+Brazil,BRA,SA,SA
+British Virgin Islands,VGB,CAR,CAR
+Brunei,BRN,ASIA,SEA
+Bulgaria,BGR,EUR,EU
+Burkina Faso,BFA,AFR,WAFR
+Burundi,BDI,AFR,EAFR
+Cambodia,KHM,ASIA,SEA
+Cameroon,CMR,AFR,MAFR
+Canada,CAN,NAM,NAM
+Cape Verde,CPV,AFR,WAFR
+Cayman Islands,CYM,CAR,CAR
+Central African Republic,CAF,AFR,MAFR
+Chad,TCD,AFR,MAFR
+Channel Islands,CHI,EUR,NEU
+Chile,CHL,SA,SA
+China,CHN,ASIA,EASIA
+China Hong Kong SAR,HKG,ASIA,EASIA
+China Macao SAR,MAC,ASIA,EASIA
+Colombia,COL,SA,SA
+Comoros,COM,AFR,EAFR
+Congo,COG,AFR,MAFR
+Congo Democratic Republic,COD,AFR,MAFR
+Cook Islands,COK,OC,POLY
+Costa Rica,CRI,NAM,CAM
+Cote dIvoire,CIV,AFR,WAFR
+Croatia,HRV,EUR,EU
+Cuba,CUB,CAR,CAR
+Curacao,CUW,CAR,CAR
+Cyprus,CYP,EUR,EU
+Czech Republic,CZE,EUR,EU
+Denmark,DNK,EUR,EU
+Djibouti,DJI,AFR,EAFR
+Dominica,DMA,CAR,CAR
+Dominican Republic,DOM,CAR,CAR
+Ecuador,ECU,SA,SA
+Egypt,EGY,AFR,NAFR
+El Salvador,SLV,NAM,CAM
+Equatorial Guinea,GNQ,AFR,MAFR
+Eritrea,ERI,AFR,EAFR
+Estonia,EST,EUR,EU
+Ethiopia,ETH,AFR,EAFR
+Federated States of Micronesia,FSM,OC,POLY
+Fiji,FJI,OC,POLY
+Finland,FIN,EUR,EU
+France,FRA,EUR,EU
+French Guiana,GUF,SA,SA
+French Polynesia,PYF,OC,POLY
+Gabon,GAB,AFR,MAFR
+Gambia,GMB,AFR,WAFR
+Georgia,GEO,ASIA,CASIA
+Germany,DEU,EUR,EU
+Ghana,GHA,AFR,WAFR
+Gibraltar,GIB,EUR,NEU
+Greece,GRC,EUR,EU
+Grenada,GRD,CAR,CAR
+Guadeloupe,GLP,CAR,CAR
+Guam,GUM,OC,POLY
+Guatemala,GTM,NAM,CAM
+Guinea,GIN,AFR,WAFR
+Guinea Bissau,GNB,AFR,WAFR
+Guyana,GUY,SA,SA
+Haiti,HTI,CAR,CAR
+Honduras,HND,NAM,CAM
+Hungary,HUN,EUR,EU
+Iceland,ISL,EUR,NEU
+India,IND,ASIA,SASIA
+Indonesia,IDN,ASIA,SEA
+Iran,IRN,ME,ME
+Iraq,IRQ,ME,ME
+Ireland,IRL,EUR,EU
+Israel,ISR,ME,ME
+Italy,ITA,EUR,EU
+Jamaica,JAM,CAR,CAR
+Japan,JPN,ASIA,EASIA
+Jordan,JOR,ME,ME
+Kazakhstan,KAZ,ASIA,CASIA
+Kenya,KEN,AFR,EAFR
+Kiribati,KIR,OC,POLY
+Korea North,PRK,ASIA,EASIA
+Korea South,KOR,ASIA,EASIA
+Kosovo,XKX,EUR,NEU
+Kuwait,KWT,ME,ME
+Kyrgyz Republic,KGZ,ASIA,CASIA
+Laos,LAO,ASIA,SEA
+Latvia,LVA,EUR,EU
+Lebanon,LBN,ME,ME
+Lesotho,LSO,AFR,SAFR
+Liberia,LBR,AFR,WAFR
+Libya,LBY,AFR,NAFR
+Liechtenstein,LIE,EUR,NEU
+Lithuania,LTU,EUR,EU
+Luxembourg,LUX,EUR,EU
+Macedonia,MKD,EUR,NEU
+Madagascar,MDG,AFR,EAFR
+Malawi,MWI,AFR,EAFR
+Malaysia,MYS,ASIA,SEA
+Maldives,MDV,ASIA,SASIA
+Mali,MLI,AFR,WAFR
+Malta,MLT,EUR,EU
+Marshall Islands,MHL,OC,POLY
+Martinique,MTQ,CAR,CAR
+Mauritania,MRT,AFR,WAFR
+Mauritius,MUS,AFR,EAFR
+Mayotte,MYT,AFR,EAFR
+Mexico,MEX,NAM,CAM
+Moldova,MDA,EUR,NEU
+Monaco,MCO,EUR,NEU
+Mongolia,MNG,ASIA,EASIA
+Monserrat,MSR,CAR,CAR
+Montenegro,MNE,EUR,NEU
+Morocco,MAR,AFR,NAFR
+Mozambique,MOZ,AFR,EAFR
+Myanmar,MMR,ASIA,SEA
+Namibia,NAM,AFR,SAFR
+Nauru,NRU,OC,POLY
+Nepal,NPL,ASIA,SASIA
+Netherlands,NLD,EUR,EU
+New Caledonia,NCL,OC,AUS
+New Zealand,NZL,OC,AUS
+Nicaragua,NIC,NAM,CAM
+Niger,NER,AFR,WAFR
+Nigeria,NGA,AFR,WAFR
+Niue,NIU,OC,POLY
+Norfolk Island,NFK,OC,AUS
+Norway,NOR,EUR,NEU
+Oman,OMN,ME,ME
+Pakistan,PAK,ASIA,SASIA
+Palau,PLW,OC,POLY
+Palestinian Territory,PSE,ME,ME
+Panama,PAN,NAM,CAM
+Papua New Guinea,PNG,OC,AUS
+Paraguay,PRY,SA,SA
+Peru,PER,SA,SA
+Philippines,PHL,ASIA,SEA
+Poland,POL,EUR,EU
+Portugal,PRT,EUR,EU
+Puerto Rico,PRI,CAR,CAR
+Qatar,QAT,ME,ME
+Reunion,REU,AFR,EAFR
+Romania,ROU,EUR,EU
+Russia,RUS,EUR,NEU
+Rwanda,RWA,AFR,EAFR
+Saint Lucia,LCA,CAR,CAR
+Saint-Pierre-et-Miquelon,SPM,NAM,NAM
+Samoa,WSM,OC,POLY
+San Marino,SMR,EUR,NEU
+Sao Tome and Principe,STP,AFR,MAFR
+Saudi Arabia,SAU,ME,ME
+Senegal,SEN,AFR,WAFR
+Serbia,SRB,EUR,NEU
+Seychelles,SYC,AFR,EAFR
+Sierra Leone,SLE,AFR,WAFR
+Singapore,SGP,ASIA,SEA
+Sint Maarten (Dutch part),SXM,CAR,CAR
+Slovakia,SVK,EUR,EU
+Slovenia,SVN,EUR,EU
+Solomon Islands,SLB,OC,POLY
+Somalia,SOM,AFR,EAFR
+South Africa,ZAF,AFR,SAFR
+South Sudan,SSD,AFR,NAFR
+Spain,ESP,EUR,EU
+Sri Lanka,LKA,ASIA,SASIA
+St Kitts Nevis,KNA,CAR,CAR
+St Vincent and the Grenadines,VCT,CAR,CAR
+Sudan,SDN,AFR,NAFR
+Suriname,SUR,SA,SA
+Swaziland,SWZ,AFR,SAFR
+Sweden,SWE,EUR,EU
+Switzerland,CHE,EUR,NEU
+Syria,SYR,ME,ME
+Taiwan,TWN,ASIA,EASIA
+Tajikistan,TJK,ASIA,CASIA
+Tanzania,TZA,AFR,EAFR
+Thailand,THA,ASIA,SEA
+Tibetan,CHN,ASIA,EASIA
+Timor-Leste,TLS,ASIA,SEA
+Togo,TGO,AFR,WAFR
+Tonga,TON,OC,POLY
+Trinidad and Tobago,TTO,CAR,CAR
+Tunisia,TUN,AFR,NAFR
+Turkey,TUR,EUR,NEU
+Turkmenistan,TKM,ASIA,CASIA
+Turks and Caicos Islands,TCA,CAR,CAR
+Tuvalu,TUV,OC,POLY
+Uganda,UGA,AFR,EAFR
+Ukraine,UKR,EUR,NEU
+United Arab Emirates,ARE,ME,ME
+United Kingdom,GBR,EUR,EU
+United States,USA,NAM,NAM
+Uruguay,URY,SA,SA
+US Virgin Islands,VIR,CAR,CAR
+Uzbekistan,UZB,ASIA,CASIA
+Vanuatu,VUT,OC,POLY
+Vatican,VAT,EUR,NEU
+Venezuela,VEN,SA,SA
+Vietnam,VNM,ASIA,SEA
+Wallis and Futuna Islands ,WLF,OC,POLY
+Western Sahara,ESH,AFR,NAFR
+Yemen,YEM,ME,ME
+Zambia,ZMB,AFR,EAFR
+Zimbabwe,ZWE,AFR,EAFR
