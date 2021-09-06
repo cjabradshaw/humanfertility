@@ -15,10 +15,10 @@ September 2021 <br>
 
 
 ## Data:
-- basedata.csv = main input data
-- matmort.csv = maternal mortality data
-- pop.yr.csv = national population data
-- continent.country2.csv = naming file necessary for data merging
+- basedata.csv = <em>main input data</em>
+- matmort.csv = <em>maternal mortality data</em>
+- pop.yr.csv = <em>national population data</em>
+- continent.country2.csv = <em>naming file necessary for data merging</em>
 
 ## Requires the following libraries:
 - lme4
