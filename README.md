@@ -6,7 +6,7 @@ code updated September 2021
 
 R code accompanies the following paper:
 
-Bradshaw, CJA, E Di Minin. 2019. Socio-economic predictors of environmental performance among African nations. Scientific Reports 9: 9306 http://doi.org/10.1038/s41598-019-45762-3
+Perry, C, CJA Bradshaw, CM Saraswati, M Judge, J Heyworth, PN Le Souëf. In review. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations. Lancet Global Health
 
 BY: Corey J.A. Bradshaw (Flinders University, Australia)
 
@@ -44,4 +44,4 @@ Requires the following libraries:
 
 and following source-code files:
 - new_lmer_AIC_tables3.R
-- source("r.squared.R
+- r.squared.R
