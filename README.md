@@ -14,13 +14,13 @@ September 2021 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 
 
-## Data:
+## Data
 - basedata.csv = <em>main input data</em>
 - matmort.csv = <em>maternal mortality data</em>
 - pop.yr.csv = <em>national population data</em>
 - continent.country2.csv = <em>naming file necessary for data merging</em>
 
-## Requires the following libraries:
+## Requires the following libraries
 - <code>lme4</code>
 - <code>Hmisc</code>
 - <code>ggplot2</code>
@@ -43,6 +43,6 @@ September 2021 <br>
 - <code>AICcmodavg</code>
 - <code>modEvA</code>
 
-## and following source-code files:
+## and the following source-code files
 - <code>new_lmer_AIC_tables3.R</code>
 - <code>r.squared.R</code>
