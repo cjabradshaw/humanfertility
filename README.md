@@ -1,5 +1,7 @@
 # Human fertility models
 
+<img align="right" src="contraception.png" alt="contraception" width="200" style="margin-top: 20px">
+
 R code to reproduce models testing for cross-national human fertility patterns relative to underlying drivers
 
 code updated September 2021
