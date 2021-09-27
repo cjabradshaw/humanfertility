@@ -2,13 +2,13 @@
 
 <img align="right" src="contraception.png" alt="contraception" width="200" style="margin-top: 20px">
 
-R code to reproduce models testing for cross-national human fertility patterns relative to underlying drivers
+<a href="https://cran.r-project.org">R</a> code to reproduce models testing for cross-national human fertility patterns relative to underlying drivers
 
 code updated September 2021
 
 R code accompanies the following paper:
 
-<strong>Perry, C, <a href="https://globalecologyflinders.com/people/#DIRECTOR">CJA Bradshaw</a>, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, M Judge, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. To be submitted. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations. <em>Lancet Global Health</em>
+<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, M Judge, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. To be submitted. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations. <em>Lancet Global Health</em>
 
 Prof Corey J. A. Bradshaw <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
@@ -17,7 +17,7 @@ September 2021 <br>
 
 
 ## Data
-- basedata.csv = <em>main input data</em>
+- basedata.csv = <em>main input data</em> (sourced from the following online databases:)
 - matmort.csv = <em>maternal mortality data</em>
 - pop.yr.csv = <em>national population data</em>
 - continent.country2.csv = <em>naming file necessary for data merging</em>
