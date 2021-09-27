@@ -17,7 +17,8 @@ September 2021 <br>
 
 
 ## Data
-- <strong>basedata.csv</strong> = <em>main input data</em> — sourced from the following online databases: (<em>i</em>) <a href="http://dhsprogram.com">Demographic and Health Surveys</a>, (<em>ii</em>) <a href="http://track20.org/pages/data_analysis/policy/FPE.php">Family Planning Effort Index</a>, (<em>iii</em>) <a href="http://mics.unicef.org">Multiple Indicator Cluster Surveys</a>, (<em>iv</em>) <a href="http://track20.org/pages/data_analysis/policy/NCIFP.php">National Composite Index on Family Planning</a>, (<em>v</em>) <a href="http://data.worldbank.org">World Bank</a>, (<em>vi</em>) <a href="http://cia.gov/the-world-factbook">World Factbook</a>, and (<em>vii</em>) World Health Organization <a href="http://who.int/data/gho">Global Health Observatory</a>.
+All data sourced from the following online databases: (<em>i</em>) <a href="http://dhsprogram.com">Demographic and Health Surveys</a>, (<em>ii</em>) <a href="http://track20.org/pages/data_analysis/policy/FPE.php">Family Planning Effort Index</a>, (<em>iii</em>) <a href="http://mics.unicef.org">Multiple Indicator Cluster Surveys</a>, (<em>iv</em>) <a href="http://track20.org/pages/data_analysis/policy/NCIFP.php">National Composite Index on Family Planning</a>, (<em>v</em>) <a href="http://data.worldbank.org">World Bank</a>, (<em>vi</em>) <a href="http://cia.gov/the-world-factbook">World Factbook</a>, and (<em>vii</em>) World Health Organization <a href="http://who.int/data/gho">Global Health Observatory</a>.
+- <strong>basedata.csv</strong> = <em>main input data</em>
 - <strong>matmort.csv</strong> = <em>maternal mortality data</em>
 - <strong>pop.yr.csv</strong> = <em>national population data</em>
 - <strong>continent.country2.csv</strong> = <em>naming file necessary for data merging</em>
