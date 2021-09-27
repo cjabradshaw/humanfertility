@@ -23,7 +23,7 @@ All data sourced from the following online databases: (<em>i</em>) <a href="http
 - <strong>pop.yr.csv</strong> = <em>national population data</em>
 - <strong>continent.country2.csv</strong> = <em>naming file necessary for data merging</em>
 
-## Requires the following libraries
+## Requires the following R libraries
 - <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">lme4</a></code>
 - <code><a href="https://cran.r-project.org/web/packages/Hmisc/index.html">Hmisc</a></code>
 - <code><a href="https://ggplot2.tidyverse.org/">ggplot2</a></code>
