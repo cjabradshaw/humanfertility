@@ -24,7 +24,7 @@ All data sourced from the following online databases: (<em>i</em>) <a href="http
 - <strong>continent.country2.csv</strong> = <em>naming file necessary for data merging</em>
 
 ## Requires the following libraries
-- <code>lme4</code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">lme4</a></code>
 - <code>Hmisc</code>
 - <code>ggplot2</code>
 - <code>plotly</code>
