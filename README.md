@@ -17,10 +17,10 @@ September 2021 <br>
 
 
 ## Data
-- basedata.csv = <em>main input data</em> — sourced from the following online databases: (<em>i</em>) <a href="http://dhsprogram.com">Demographic and Health Surveys</a>, (<em>ii</em>) <a href="http://track20.org/pages/data_analysis/policy/FPE.php">Family Planning Effort Index</a>, (<em>iii</em>) <a href="http://mics.unicef.org">Multiple Indicator Cluster Surveys</a>, (<em>iv</em>) <a href="http://track20.org/pages/data_analysis/policy/NCIFP.php">National Composite Index on Family Planning</a>, (<em>v</em>) <a href="http://data.worldbank.org">World Bank</a>, (<em>vi</em>) <a href="http://cia.gov/the-world-factbook">World Factbook</a>, and (<em>vii</em> the World Health Organization <a href="http://who.int/data/gho">Global Health Observatory data</a>.
-- matmort.csv = <em>maternal mortality data</em>
-- pop.yr.csv = <em>national population data</em>
-- continent.country2.csv = <em>naming file necessary for data merging</em>
+- <strong>basedata.csv</strong> = <em>main input data</em> — sourced from the following online databases: (<em>i</em>) <a href="http://dhsprogram.com">Demographic and Health Surveys</a>, (<em>ii</em>) <a href="http://track20.org/pages/data_analysis/policy/FPE.php">Family Planning Effort Index</a>, (<em>iii</em>) <a href="http://mics.unicef.org">Multiple Indicator Cluster Surveys</a>, (<em>iv</em>) <a href="http://track20.org/pages/data_analysis/policy/NCIFP.php">National Composite Index on Family Planning</a>, (<em>v</em>) <a href="http://data.worldbank.org">World Bank</a>, (<em>vi</em>) <a href="http://cia.gov/the-world-factbook">World Factbook</a>, and (<em>vii</em>) the World Health Organization <a href="http://who.int/data/gho">Global Health Observatory data</a>.
+- <strong>matmort.csv</strong> = <em>maternal mortality data</em>
+- <strong>pop.yr.csv</strong> = <em>national population data</em>
+- <strong>continent.country2.csv</strong> = <em>naming file necessary for data merging</em>
 
 ## Requires the following libraries
 - <code>lme4</code>
