@@ -25,26 +25,26 @@ All data sourced from the following online databases: (<em>i</em>) <a href="http
 
 ## Requires the following libraries
 - <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">lme4</a></code>
-- <code>Hmisc</code>
-- <code>ggplot2</code>
-- <code>plotly</code>
-- <code>nlme</code>
-- <code>car</code>
-- <code>dismo</code>
-- <code>gbm</code>
-- <code>rgeos</code>
-- <code>rworldmap</code>
-- <code>rworldxtra</code>
-- <code>rcompanion</code>
-- <code>SpatialEpi</code>
-- <code>ggridges</code>
-- <code>dplyr</code>
-- <code>ggpubr</code>
-- <code>plyr</code>
-- <code>fields</code>
-- <code>ncf</code>
-- <code>AICcmodavg</code>
-- <code>modEvA</code>
+- <code><a href="https://cran.r-project.org/web/packages/Hmisc/index.html">Hmisc</a></code>
+- <code><a href="https://ggplot2.tidyverse.org/">ggplot2</a></code>
+- <code><a href="https://plotly.com/r/">plotly</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/nlme/index.html">nlme</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">car</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">dismo</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">gbm</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">rgeos</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">rworldmap</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">rworldxtra</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">rcompanion</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">SpatialEpi</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">ggridges</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">dplyr</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">ggpubr</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">plyr</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">fields</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">ncf</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">AICcmodavg</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">modEvA</a></code>
 
 ## and the following source-code files
 - <code>new_lmer_AIC_tables3.R</code>
