@@ -11,13 +11,13 @@ R code accompanies the following paper:
 <strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, M Judge, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. To be submitted. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations. <em>Lancet Global Health</em>
 
 ## Summary
-# Background
+### Background
 Family planning has been associated with reduced fertility and improved maternal and child survival. Although fertility is declining in many nations, progress on improving maternal and child-health outcomes is slower. To assess why, we tested hypotheses regarding the potential predictors of variation in fertility among 46 low- and middle-income countries. We predicted that higher nation-level availability/quality of family-planning services, maternal education, and wealth reduce average fertility, whereas higher infant mortality and religious adherence increase it.
-# Methods
+### Methods
 Using publicly available data, we collated test and control variables in six themes: (<em>i</em>) availability of family planning, (<em>ii</em>) quality of family planning, (<em>iii</em>) maternal education, (<em>iv</em>) religion, (<em>v</em>) mortality, and (<em>vi</em>) socio-economic conditions. Given the sample size, we first constructed general linear models to test for relationships between fertility and the variables from each theme, from which we retained those with the highest explanatory power within a final general linear model set to determine the partial correlation of dominant test variables. We also applied boosted regression trees, generalised least-squares models, and a generalised linear mixed-effects models to account for non-linearity and spatial autocorrelation.
-# Findings
+### Findings
 On average among all countries, we found an association between all main variables and fertility, with reduced infant mortality having the strongest relationship with reduced fertility. Access to contraception was the next-highest correlate with reduced fertility, with female secondary education, home health visitations, and adherence to Catholicism having weak, if any, explanatory power.
-# Interpretation
+### Interpretation
 Our models suggest that decreasing infant mortality and increasing access to contraception will have the greatest effect on decreasing global fertility. We thus provide new evidence that progressing the United Nation’s Sustainable Development Goals for reducing infant mortality can be accelerated by increasing access to any form of family planning.
 
 Prof Corey J. A. Bradshaw <br>
