@@ -1,5 +1,7 @@
 # Human fertility models
 
+<a href="https://zenodo.org/badge/latestdoi/403478560"><img src="https://zenodo.org/badge/403478560.svg" alt="DOI"></a>
+
 <img align="right" src="contraception.png" alt="contraception" width="200" style="margin-top: 20px">
 
 <a href="https://cran.r-project.org"><em>R</em></a> code to reproduce models testing for cross-national human fertility patterns relative to underlying drivers
