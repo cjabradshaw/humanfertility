@@ -8,7 +8,7 @@ code updated September 2021
 
 <em>R</em> code accompanies the following paper:
 
-<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, M Judge, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. Submitted. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations. <em><a href="https://www.thelancet.com/journals/langlo/home">Lancet Global Health</a></em>
+<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, M Judge, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. In review. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations.
 
 ## Summary
 ### Background
