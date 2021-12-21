@@ -12,6 +12,8 @@ code updated September 2021
 
 <strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, M Judge, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. In review. Lower infant mortality and access to contraception reduce fertility in low- and middle-income nations.
 
+Pre-print available <a href="http://doi.org/10.1101/2021.12.16.21267946">here</a>.
+
 ## Summary
 ### Background
 Family planning has been associated with reduced fertility and improved maternal and child survival. Although fertility is declining in many nations, progress on improving maternal and child-health outcomes is slower. To assess why, we tested hypotheses regarding the potential predictors of variation in fertility among 46 low- and middle-income countries. We predicted that higher nation-level availability/quality of family-planning services, maternal education, and wealth reduce average fertility, whereas higher infant mortality and religious adherence increase it.
