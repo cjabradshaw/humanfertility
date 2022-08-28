@@ -52,6 +52,9 @@ All data sourced from the following online databases: (<em>i</em>) <a href="http
 - <code><a href="https://cran.r-project.org/web/packages/ncf/index.html">ncf</a></code>
 - <code><a href="https://cran.r-project.org/web/packages/AICcmodavg/index.html">AICcmodavg</a></code>
 - <code><a href="https://cran.r-project.org/web/packages/modEvA/index.html">modEvA</a></code>
+- <code><a href="https://cran.r-project.org/web/packages/VIM/index.html">VIM</a></code>
+- <code><a href="https://www.rdocumentation.org/packages/mice/versions/3.14.0/topics/mice">mice</a></code>
+- <code><a href="https://indrajeetpatil.github.io/ggstatsplot/">ggstatsplot</a></code>
 
 ## and the following source-code files
 - <code>new_lmer_AIC_tables3.R</code>
