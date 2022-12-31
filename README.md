@@ -6,7 +6,7 @@
 
 <a href="https://cran.r-project.org"><em>R</em></a> code to reproduce models testing for cross-national human fertility patterns relative to underlying drivers
 
-code updated August 2022
+code updated December 2022
 
 <em>R</em> code accompanies the following paper:
 
