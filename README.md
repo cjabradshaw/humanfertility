@@ -2,7 +2,7 @@
 
 <a href="https://zenodo.org/badge/latestdoi/403478560"><img src="https://zenodo.org/badge/403478560.svg" alt="DOI"></a>
 
-<img align="right" src="contraception.png" alt="contraception" width="200" style="margin-top: 20px">
+<img align="right" src="www/contraception.png" alt="contraception" width="200" style="margin-top: 20px">
 
 <a href="https://cran.r-project.org"><em>R</em></a> code to reproduce models testing for cross-national human fertility patterns relative to underlying drivers
 
@@ -10,7 +10,7 @@ code updated August 2022
 
 <em>R</em> code accompanies the following paper:
 
-<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://orcid.org/0000-0002-9948-1865">M Judge</a>, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. In review. Lower infant mortality, household size, and access to contraception reduce fertility in low- and middle-income nations. <em>PLoS One</em>
+<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://orcid.org/0000-0002-9948-1865">M Judge</a>, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. 2023. Lower infant mortality, household size, and access to contraception reduce fertility in low- and middle-income nations. <em>PLoS One</em> In press
 
 Pre-print also available <a href="http://doi.org/10.1101/2021.12.16.21267946">here</a>.
 
