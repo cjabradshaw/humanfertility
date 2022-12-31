@@ -63,4 +63,4 @@ All data sourced from the following online databases: (<em>i</em>) <a href="http
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
 <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a>
-<a href="https://www.uwa.edu.au"><img align="bottom-left" src="www/UWA.png" alt="UWA logo" width="150" style="margin-top: 20px"></a>
+<a href="https://www.uwa.edu.au"><img align="bottom-left" src="www/uwa.png" alt="UWA logo" width="150" style="margin-top: 20px"></a>
