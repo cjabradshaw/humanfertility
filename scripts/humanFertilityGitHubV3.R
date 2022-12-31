@@ -308,7 +308,6 @@ popN <- read.table("pop.yr.update.csv", sep=",", header=T) # 2021
 popN2021 <- popN[, c(1, dim(popN)[2])]
 colnames(popN2021)[2] <- c("pop2021")
 contreg <- read.table("continent.country2.csv", sep=",", header=T)
-#contnum <- read.table("cntry.num.code.csv", sep=",", header=T)
 
 
 # battle-related deaths
