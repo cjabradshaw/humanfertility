@@ -79,7 +79,7 @@ linreg.ER <- function(x,y) { # where x and y are vectors of the same length; cal
 
 
 # import data
-dat <- read.csv("r_fulldata.update.csv", header=T) # updated data
+dat <- read.csv("basedata.update.csv", header=T) # updated data
 
 dat.tfr.sort <- dat[order(dat[,6],decreasing=T), ]
 dat.tfr.sort[, 1:6]
