@@ -1,6 +1,6 @@
 # Human fertility models
 
-<a href="https://zenodo.org/badge/latestdoi/403478560"><img src="https://zenodo.org/badge/403478560.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.7496142"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7496142.svg" alt="DOI"></a>
 
 <img align="right" src="www/contraception.png" alt="contraception" width="200" style="margin-top: 20px">
 
