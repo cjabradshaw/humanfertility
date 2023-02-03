@@ -10,7 +10,7 @@ code updated December 2022
 
 <em>R</em> code accompanies the following paper:
 
-<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://orcid.org/0000-0002-9948-1865">M Judge</a>, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. 2023. Lower infant mortality, household size, and access to contraception reduce fertility in low- and middle-income nations. <em>PLoS One</em> In press
+<strong><a href="https://globalecologyflinders.com/people/#DIRECTOR">Bradshaw, CJA</a>, C Perry, <a href="https://orcid.org/0000-0002-9948-1865">M Judge</a>, <a href="https://www.linkedin.com/in/chitra-maharani-saraswati-6bab3510b?originalSubdomain=au">CM Saraswati</a>, <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">J Heyworth</a>, <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">PN Le Souëf</a></strong>. 2023. <a href="http://doi.org/10.1371/journal.pone.0280260">Lower infant mortality, household size, and access to contraception reduce fertility in low- and middle-income nations</a>. <em>PLoS One</em> doi:10.1371/journal.pone.0280260  
 
 Pre-print (out-of-date) also available <a href="http://doi.org/10.1101/2021.12.16.21267946">here</a>.
 
