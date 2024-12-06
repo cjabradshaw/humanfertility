@@ -36,30 +36,7 @@ All data sourced from the following online databases: (<em>i</em>) <a href="http
 - <strong>continent.country2.csv</strong> = <em>naming file necessary for data merging</em>
 
 ## Requires the following <em>R</em> libraries
-- <code><a href="https://cran.r-project.org/web/packages/lme4/index.html">lme4</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/Hmisc/index.html">Hmisc</a></code>
-- <code><a href="https://ggplot2.tidyverse.org/">ggplot2</a></code>
-- <code><a href="https://plotly.com/r/">plotly</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/nlme/index.html">nlme</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/car/index.html">car</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/dismo/index.html">dismo</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/gbm/index.html">gbm</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/rgeos/index.html">rgeos</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/rworldmap/index.html">rworldmap</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/rworldxtra/index.html">rworldxtra</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/rcompanion/index.html">rcompanion</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/SpatialEpi/index.html">SpatialEpi</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html">ggridges</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html">dplyr</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/ggpubr/index.html">ggpubr</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/plyr/index.html">plyr</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/fields/index.html">fields</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/ncf/index.html">ncf</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/AICcmodavg/index.html">AICcmodavg</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/modEvA/index.html">modEvA</a></code>
-- <code><a href="https://cran.r-project.org/web/packages/VIM/index.html">VIM</a></code>
-- <code><a href="https://www.rdocumentation.org/packages/mice/versions/3.14.0/topics/mice">mice</a></code>
-- <code><a href="https://indrajeetpatil.github.io/ggstatsplot/">ggstatsplot</a></code>
+<code><a href="https://cran.r-project.org/web/packages/lme4/index.html">lme4</a></code>, <code><a href="https://cran.r-project.org/web/packages/Hmisc/index.html">Hmisc</a></code>, <code><a href="https://ggplot2.tidyverse.org/">ggplot2</a></code>, <code><a href="https://plotly.com/r/">plotly</a></code>, <code><a href="https://cran.r-project.org/web/packages/nlme/index.html">nlme</a></code>, <code><a href="https://cran.r-project.org/web/packages/car/index.html">car</a></code>, <code><a href="https://cran.r-project.org/web/packages/dismo/index.html">dismo</a></code>, <code><a href="https://cran.r-project.org/web/packages/gbm/index.html">gbm</a></code>, <code><a href="https://cran.r-project.org/web/packages/rgeos/index.html">rgeos</a></code>, <code><a href="https://cran.r-project.org/web/packages/rworldmap/index.html">rworldmap</a></code>, <code><a href="https://cran.r-project.org/web/packages/rworldxtra/index.html">rworldxtra</a></code>, <code><a href="https://cran.r-project.org/web/packages/rcompanion/index.html">rcompanion</a></code>, <code><a href="https://cran.r-project.org/web/packages/SpatialEpi/index.html">SpatialEpi</a></code>, <code><a href="https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html">ggridges</a></code>, <code><a href="https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html">dplyr</a></code>, <code><a href="https://cran.r-project.org/web/packages/ggpubr/index.html">ggpubr</a></code>, <code><a href="https://cran.r-project.org/web/packages/plyr/index.html">plyr</a></code>, <code><a href="https://cran.r-project.org/web/packages/fields/index.html">fields</a></code>, <code><a href="https://cran.r-project.org/web/packages/ncf/index.html">ncf</a></code>, <code><a href="https://cran.r-project.org/web/packages/AICcmodavg/index.html">AICcmodavg</a></code>, <code><a href="https://cran.r-project.org/web/packages/modEvA/index.html">modEvA</a></code>, <code><a href="https://cran.r-project.org/web/packages/VIM/index.html">VIM</a></code>, <code><a href="https://www.rdocumentation.org/packages/mice/versions/3.14.0/topics/mice">mice</a></code>. <code><a href="https://indrajeetpatil.github.io/ggstatsplot/">ggstatsplot</a></code>
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
 <a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a>
